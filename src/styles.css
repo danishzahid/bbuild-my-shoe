@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1,
+li {
+  color: #001f4d;
+  text-shadow: 2px 2px orange;
+}
+
+body {
+  background-color: #cce0ff;
+}
